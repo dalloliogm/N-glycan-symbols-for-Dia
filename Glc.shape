@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia shapes - Glc</name>
+  <icon>Glc.png</icon>
+  <connections>
+    <point x="12.52" y="8.685"/>
+    <point x="12.52" y="6.235"/>
+    <point x="11.295" y="7.46"/>
+    <point x="13.745" y="7.46"/>
+    <point x="12.52" y="8.685"/>
+    <point x="12.52" y="6.235"/>
+    <point x="11.295" y="7.46"/>
+    <point x="13.745" y="7.46"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #3837b7" cx="12.52" cy="7.46" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="12.52" cy="7.46" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="12.52" cy="7.46" rx="1.225" ry="1.225"/>
+  </svg:svg>
+</shape>

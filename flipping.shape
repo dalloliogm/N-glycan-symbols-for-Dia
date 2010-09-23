@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia - flipping</name>
+  <icon>flipping.png</icon>
+  <connections>
+    <point x="96.2024" y="30.5657"/>
+    <point x="138.709" y="30.5657"/>
+    <point x="117.456" y="30.5657"/>
+    <point x="139.084" y="30.5657"/>
+    <point x="138.584" y="30.8157"/>
+    <point x="138.709" y="30.5657"/>
+    <point x="138.584" y="30.3157"/>
+    <point x="138.834" y="30.6907"/>
+    <point x="138.646" y="30.6907"/>
+    <point x="138.646" y="30.4407"/>
+    <point x="169.015" y="28.1534"/>
+    <point x="169.015" y="25.7034"/>
+    <point x="167.79" y="26.9284"/>
+    <point x="170.24" y="26.9284"/>
+    <point x="169.015" y="28.1534"/>
+    <point x="169.015" y="25.7034"/>
+    <point x="167.79" y="26.9284"/>
+    <point x="170.24" y="26.9284"/>
+    <point x="163.015" y="36.1534"/>
+    <point x="163.015" y="33.7034"/>
+    <point x="161.79" y="34.9284"/>
+    <point x="164.24" y="34.9284"/>
+    <point x="163.015" y="36.1534"/>
+    <point x="163.015" y="33.7034"/>
+    <point x="161.79" y="34.9284"/>
+    <point x="164.24" y="34.9284"/>
+    <point x="174.015" y="32.1534"/>
+    <point x="174.015" y="29.7034"/>
+    <point x="172.79" y="30.9284"/>
+    <point x="175.24" y="30.9284"/>
+    <point x="174.015" y="32.1534"/>
+    <point x="174.015" y="29.7034"/>
+    <point x="172.79" y="30.9284"/>
+    <point x="175.24" y="30.9284"/>
+    <point x="169.015" y="36.1534"/>
+    <point x="169.015" y="33.7034"/>
+    <point x="167.79" y="34.9284"/>
+    <point x="170.24" y="34.9284"/>
+    <point x="169.015" y="36.1534"/>
+    <point x="169.015" y="33.7034"/>
+    <point x="167.79" y="34.9284"/>
+    <point x="170.24" y="34.9284"/>
+    <point x="157.015" y="36.1534"/>
+    <point x="157.015" y="33.7034"/>
+    <point x="155.79" y="34.9284"/>
+    <point x="158.24" y="34.9284"/>
+    <point x="157.015" y="36.1534"/>
+    <point x="157.015" y="33.7034"/>
+    <point x="155.79" y="34.9284"/>
+    <point x="158.24" y="34.9284"/>
+    <point x="173.029" y="30.1393"/>
+    <point x="170.002" y="27.7175"/>
+    <point x="171.516" y="28.9284"/>
+    <point x="161.74" y="34.9284"/>
+    <point x="158.291" y="34.9284"/>
+    <point x="160.016" y="34.9284"/>
+    <point x="167.74" y="34.9284"/>
+    <point x="164.291" y="34.9284"/>
+    <point x="166.016" y="34.9284"/>
+    <point x="173.029" y="31.7175"/>
+    <point x="170.002" y="34.1393"/>
+    <point x="171.516" y="32.9284"/>
+    <point x="178.79" y="29.7034"/>
+    <point x="181.258" y="32.2534"/>
+    <point x="178.79" y="32.2534"/>
+    <point x="178.79" y="30.9784"/>
+    <point x="181.258" y="29.7034"/>
+    <point x="181.258" y="30.9784"/>
+    <point x="180.024" y="32.2534"/>
+    <point x="180.024" y="29.7034"/>
+    <point x="178.79" y="29.7034"/>
+    <point x="181.258" y="32.2534"/>
+    <point x="178.79" y="32.2534"/>
+    <point x="178.79" y="30.9784"/>
+    <point x="181.258" y="29.7034"/>
+    <point x="181.258" y="30.9784"/>
+    <point x="180.024" y="32.2534"/>
+    <point x="180.024" y="29.7034"/>
+    <point x="184.79" y="29.7034"/>
+    <point x="187.258" y="32.2534"/>
+    <point x="184.79" y="32.2534"/>
+    <point x="184.79" y="30.9784"/>
+    <point x="187.258" y="29.7034"/>
+    <point x="187.258" y="30.9784"/>
+    <point x="186.024" y="32.2534"/>
+    <point x="186.024" y="29.7034"/>
+    <point x="184.79" y="29.7034"/>
+    <point x="187.258" y="32.2534"/>
+    <point x="184.79" y="32.2534"/>
+    <point x="184.79" y="30.9784"/>
+    <point x="187.258" y="29.7034"/>
+    <point x="187.258" y="30.9784"/>
+    <point x="186.024" y="32.2534"/>
+    <point x="186.024" y="29.7034"/>
+    <point x="178.74" y="30.9677"/>
+    <point x="175.291" y="30.939"/>
+    <point x="177.016" y="30.9534"/>
+    <point x="184.74" y="30.9784"/>
+    <point x="181.308" y="30.9784"/>
+    <point x="183.024" y="30.9784"/>
+    <point x="191.036" y="31.0013"/>
+    <point x="187.308" y="30.9843"/>
+    <point x="189.172" y="30.9928"/>
+    <point x="59.225" y="26.45"/>
+    <point x="59.225" y="24"/>
+    <point x="58" y="25.225"/>
+    <point x="60.45" y="25.225"/>
+    <point x="59.225" y="26.45"/>
+    <point x="59.225" y="24"/>
+    <point x="58" y="25.225"/>
+    <point x="60.45" y="25.225"/>
+    <point x="53.225" y="31.45"/>
+    <point x="53.225" y="29"/>
+    <point x="52" y="30.225"/>
+    <point x="54.45" y="30.225"/>
+    <point x="53.225" y="31.45"/>
+    <point x="53.225" y="29"/>
+    <point x="52" y="30.225"/>
+    <point x="54.45" y="30.225"/>
+    <point x="58.225" y="36.45"/>
+    <point x="58.225" y="34"/>
+    <point x="57" y="35.225"/>
+    <point x="59.45" y="35.225"/>
+    <point x="58.225" y="36.45"/>
+    <point x="58.225" y="34"/>
+    <point x="57" y="35.225"/>
+    <point x="59.45" y="35.225"/>
+    <point x="54.2042" y="29.409"/>
+    <point x="58.2458" y="26.041"/>
+    <point x="56.225" y="27.725"/>
+    <point x="54.1265" y="31.1265"/>
+    <point x="57.3235" y="34.3235"/>
+    <point x="55.725" y="32.725"/>
+    <point x="46" y="29"/>
+    <point x="48.4677" y="31.55"/>
+    <point x="46" y="31.55"/>
+    <point x="46" y="30.275"/>
+    <point x="48.4677" y="29"/>
+    <point x="48.4677" y="30.275"/>
+    <point x="47.2339" y="31.55"/>
+    <point x="47.2339" y="29"/>
+    <point x="46" y="29"/>
+    <point x="48.4677" y="31.55"/>
+    <point x="46" y="31.55"/>
+    <point x="46" y="30.275"/>
+    <point x="48.4677" y="29"/>
+    <point x="48.4677" y="30.275"/>
+    <point x="47.2339" y="31.55"/>
+    <point x="47.2339" y="29"/>
+    <point x="40" y="29"/>
+    <point x="42.4677" y="31.55"/>
+    <point x="40" y="31.55"/>
+    <point x="40" y="30.275"/>
+    <point x="42.4677" y="29"/>
+    <point x="42.4677" y="30.275"/>
+    <point x="41.2339" y="31.55"/>
+    <point x="41.2339" y="29"/>
+    <point x="40" y="29"/>
+    <point x="42.4677" y="31.55"/>
+    <point x="40" y="31.55"/>
+    <point x="40" y="30.275"/>
+    <point x="42.4677" y="29"/>
+    <point x="42.4677" y="30.275"/>
+    <point x="41.2339" y="31.55"/>
+    <point x="41.2339" y="29"/>
+    <point x="48.5166" y="30.2643"/>
+    <point x="51.9554" y="30.2356"/>
+    <point x="50.236" y="30.2499"/>
+    <point x="42.5178" y="30.275"/>
+    <point x="45.9499" y="30.275"/>
+    <point x="44.2339" y="30.275"/>
+    <point x="35.221" y="30.2607"/>
+    <point x="39.9501" y="30.2719"/>
+    <point x="37.5855" y="30.2663"/>
+    <point x="32" y="6"/>
+    <point x="32" y="29"/>
+    <point x="32" y="17.5"/>
+    <point x="32" y="32"/>
+    <point x="32" y="55"/>
+    <point x="32" y="43.5"/>
+    <point x="65.225" y="26.45"/>
+    <point x="65.225" y="24"/>
+    <point x="64" y="25.225"/>
+    <point x="66.45" y="25.225"/>
+    <point x="65.225" y="26.45"/>
+    <point x="65.225" y="24"/>
+    <point x="64" y="25.225"/>
+    <point x="66.45" y="25.225"/>
+    <point x="71.225" y="26.45"/>
+    <point x="71.225" y="24"/>
+    <point x="70" y="25.225"/>
+    <point x="72.45" y="25.225"/>
+    <point x="71.225" y="26.45"/>
+    <point x="71.225" y="24"/>
+    <point x="70" y="25.225"/>
+    <point x="72.45" y="25.225"/>
+    <point x="66.5001" y="25.225"/>
+    <point x="69.9499" y="25.225"/>
+    <point x="68.225" y="25.225"/>
+    <point x="60.45" y="25.225"/>
+    <point x="63.9508" y="25.225"/>
+    <point x="62.2004" y="25.225"/>
+    <point x="195.566" y="6.41421"/>
+    <point x="195.566" y="29.4142"/>
+    <point x="195.566" y="17.9142"/>
+    <point x="195.566" y="32.4142"/>
+    <point x="195.566" y="55.4142"/>
+    <point x="195.566" y="43.9142"/>
+    <point x="199.012" y="6.50175"/>
+    <point x="199.012" y="29.5017"/>
+    <point x="199.012" y="18.0017"/>
+    <point x="199.004" y="29.4835"/>
+    <point x="199.012" y="55.5017"/>
+    <point x="199.008" y="42.4926"/>
+    <point x="28.3854" y="6.14512"/>
+    <point x="28.3854" y="29.1451"/>
+    <point x="28.3854" y="17.6451"/>
+    <point x="28.378" y="29.2269"/>
+    <point x="28.3854" y="55.2451"/>
+    <point x="28.3817" y="42.236"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 0 cm; font-family: sans; font-style: normal; font-weight: normal" x="10.8877" y="20.9756"></svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 0 cm; font-family: sans; font-style: normal; font-weight: normal" x="10.8877" y="20.9756"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="96.2024" y1="30.5657" x2="138.709" y2="30.5657"/>
+    <svg:polygon style="fill: #000000" points="139.084,30.5657 138.584,30.8157 138.709,30.5657 138.584,30.3157 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="139.084,30.5657 138.584,30.8157 138.709,30.5657 138.584,30.3157 "/>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 21.8925 cm; font-family: sans; font-style: normal; font-weight: normal" x="105.002" y="34.3657">Flipping of the </svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 27.725 cm; font-family: sans; font-style: normal; font-weight: normal" x="105.002" y="38.3657">N-glycan precursor</svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 26.23 cm; font-family: sans; font-style: normal; font-weight: normal" x="105.002" y="42.3657">on the membrane</svg:text>
+    <svg:ellipse style="fill: #25971d" cx="169.015" cy="26.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="169.015" cy="26.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="169.015" cy="26.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: #25971d" cx="163.015" cy="34.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="163.015" cy="34.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="163.015" cy="34.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: #25971d" cx="174.015" cy="30.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="174.015" cy="30.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="174.015" cy="30.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: #25971d" cx="169.015" cy="34.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="169.015" cy="34.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="169.015" cy="34.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: #25971d" cx="157.015" cy="34.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="157.015" cy="34.9284" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="157.015" cy="34.9284" rx="1.225" ry="1.225"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="173.029" y1="30.1393" x2="170.002" y2="27.7175"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="161.74" y1="34.9284" x2="158.291" y2="34.9284"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="167.74" y1="34.9284" x2="164.291" y2="34.9284"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="173.029" y1="31.7175" x2="170.002" y2="34.1393"/>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3075 cm; font-family: sans; font-style: normal; font-weight: normal" x="181.258" y="32.2534">ß 4</svg:text>
+    <svg:rect style="fill: #3837b7" x="178.79" y="29.7034" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="178.79" y="29.7034" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="178.79" y="29.7034" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: #3837b7" x="184.79" y="29.7034" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="184.79" y="29.7034" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="184.79" y="29.7034" width="2.46774" height="2.55"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="178.74" y1="30.9677" x2="175.291" y2="30.939"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="184.74" y1="30.9784" x2="181.308" y2="30.9784"/>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3075 cm; font-family: sans; font-style: normal; font-weight: normal" x="175.79" y="32.7034">ß 4</svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3525 cm; font-family: sans; font-style: normal; font-weight: normal" x="164.79" y="36.7034">α 2</svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3525 cm; font-family: sans; font-style: normal; font-weight: normal" x="158.79" y="36.7034">α 2</svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3525 cm; font-family: sans; font-style: normal; font-weight: normal" x="171.79" y="34.7034">α 3</svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3525 cm; font-family: sans; font-style: normal; font-weight: normal" x="171.515" y="28.9284">α 6</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="191.036" y1="31.0013" x2="187.308" y2="30.9843"/>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 4.6725 cm; font-family: sans; font-style: normal; font-weight: normal" x="191.414" y="31.4706">PP-Dol</svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 46.64 cm; font-family: sans; font-style: normal; font-weight: normal" x="143.79" y="45.7034">         (GlcNAc)2(Man)5(PP-Dol)1</svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 47.955 cm; font-family: sans; font-style: normal; font-weight: normal" x="143.79" y="49.7034">        [integral to the luminal side</svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 39.6925 cm; font-family: sans; font-style: normal; font-weight: normal" x="143.79" y="53.7034">         of the ER membrane]</svg:text>
+    <svg:ellipse style="fill: #25971d" cx="59.225" cy="25.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="59.225" cy="25.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="59.225" cy="25.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: #25971d" cx="53.225" cy="30.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="53.225" cy="30.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="53.225" cy="30.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: #25971d" cx="58.225" cy="35.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="58.225" cy="35.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="58.225" cy="35.225" rx="1.225" ry="1.225"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="54.2042" y1="29.409" x2="58.2458" y2="26.041"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="54.1265" y1="31.1265" x2="57.3235" y2="34.3235"/>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3075 cm; font-family: sans; font-style: normal; font-weight: normal" x="42.4677" y="30.275">ß 4</svg:text>
+    <svg:rect style="fill: #3837b7" x="46" y="29" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="46" y="29" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="46" y="29" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: #3837b7" x="40" y="29" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="40" y="29" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="40" y="29" width="2.46774" height="2.55"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="48.5166" y1="30.2643" x2="51.9554" y2="30.2356"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="42.5178" y1="30.275" x2="45.9499" y2="30.275"/>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3075 cm; font-family: sans; font-style: normal; font-weight: normal" x="48.4677" y="30.275">ß 4</svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 0 cm; font-family: sans; font-style: normal; font-weight: normal" x="52.888" y="22.9756"></svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 0 cm; font-family: sans; font-style: normal; font-weight: normal" x="52.888" y="22.9756"></svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3525 cm; font-family: sans; font-style: normal; font-weight: normal" x="61" y="24">α 2</svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3525 cm; font-family: sans; font-style: normal; font-weight: normal" x="67" y="24">α 2</svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3525 cm; font-family: sans; font-style: normal; font-weight: normal" x="54" y="27">α 3</svg:text>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 2.3525 cm; font-family: sans; font-style: normal; font-weight: normal" x="53" y="34">α 6</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="35.221" y1="30.2607" x2="39.9501" y2="30.2719"/>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 4.705 cm; font-family: sans; font-style: normal; font-weight: normal" x="29.624" y="30.7672">Dol-PP</svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 46.64 cm; font-family: sans; font-style: normal; font-weight: normal" x="40.2828" y="46.1314">         (GlcNAc)2(Man)5(PP-Dol)1</svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 54.68 cm; font-family: sans; font-style: normal; font-weight: normal" x="40.2828" y="50.1314">        [integral to the cytoplasmic side</svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 39.6925 cm; font-family: sans; font-style: normal; font-weight: normal" x="40.2828" y="54.1314">         of the ER membrane]</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.1; stroke-dasharray: 0.2; stroke: #000000" x1="32" y1="6" x2="32" y2="29"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.1; stroke-dasharray: 0.2; stroke: #000000" x1="32" y1="32" x2="32" y2="55"/>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 16.2125 cm; font-family: sans; font-style: normal; font-weight: normal" x="10" y="10">[ER lumen]</svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 17.775 cm; font-family: sans; font-style: normal; font-weight: normal" x="35" y="10">[Cytoplasm]</svg:text>
+    <svg:ellipse style="fill: #25971d" cx="65.225" cy="25.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="65.225" cy="25.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="65.225" cy="25.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: #25971d" cx="71.225" cy="25.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="71.225" cy="25.225" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="71.225" cy="25.225" rx="1.225" ry="1.225"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="66.5001" y1="25.225" x2="69.9499" y2="25.225"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="60.45" y1="25.225" x2="63.9508" y2="25.225"/>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 11.515 cm; font-family: sans; font-style: normal; font-weight: normal" x="33" y="54">[ER membrane]</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.1; stroke-dasharray: 0.2; stroke: #000000" x1="195.566" y1="6.41421" x2="195.566" y2="29.4142"/>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 17.775 cm; font-family: sans; font-style: normal; font-weight: normal" x="201.566" y="10.4142">[Cytoplasm]</svg:text>
+    <svg:text style="fill: #000000; font-size: 4 cm; length: 16.2125 cm; font-family: sans; font-style: normal; font-weight: normal" x="177.566" y="10.4142">[ER lumen]</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.1; stroke-dasharray: 0.2; stroke: #000000" x1="195.566" y1="32.4142" x2="195.566" y2="55.4142"/>
+    <svg:text style="fill: #000000; font-size: 2 cm; length: 11.515 cm; font-family: sans; font-style: normal; font-weight: normal" x="200.525" y="53.9799">[ER membrane]</svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.1; stroke-dasharray: 0.2; stroke: #000000" x1="199.012" y1="6.50175" x2="199.012" y2="29.5017"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.1; stroke-dasharray: 0.2; stroke: #000000" x1="199.004" y1="29.4835" x2="199.012" y2="55.5017"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.1; stroke-dasharray: 0.2; stroke: #000000" x1="28.3854" y1="6.14512" x2="28.3854" y2="29.1451"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 1.1; stroke-dasharray: 0.2; stroke: #000000" x1="28.378" y1="29.2269" x2="28.3854" y2="55.2451"/>
+  </svg:svg>
+</shape>

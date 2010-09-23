@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia shapes - ManN</name>
+  <icon>ManN.png</icon>
+  <connections>
+    <point x="15.3478" y="8.26362"/>
+    <point x="17.8155" y="10.8136"/>
+    <point x="15.3478" y="10.8136"/>
+    <point x="15.3478" y="9.53862"/>
+    <point x="17.8155" y="8.26362"/>
+    <point x="17.8155" y="9.53862"/>
+    <point x="16.5816" y="10.8136"/>
+    <point x="16.5816" y="8.26362"/>
+    <point x="15.3478" y="8.26362"/>
+    <point x="17.8155" y="10.8136"/>
+    <point x="15.3478" y="10.8136"/>
+    <point x="15.3478" y="9.53862"/>
+    <point x="17.8155" y="8.26362"/>
+    <point x="17.8155" y="9.53862"/>
+    <point x="16.5816" y="10.8136"/>
+    <point x="16.5816" y="8.26362"/>
+    <point x="15.3595" y="8.29425"/>
+    <point x="17.8079" y="8.29425"/>
+    <point x="17.8167" y="10.7956"/>
+    <point x="16.5837" y="8.29425"/>
+    <point x="17.8123" y="9.54494"/>
+    <point x="15.3647" y="8.34127"/>
+    <point x="15.371" y="10.7975"/>
+    <point x="17.7772" y="10.8038"/>
+    <point x="15.3679" y="9.5694"/>
+    <point x="16.5741" y="10.8006"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="15.3478" y="8.26362" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="15.3478" y="8.26362" width="2.46774" height="2.55"/>
+    <svg:polygon style="fill: #25971d" points="15.3595,8.29425 17.8079,8.29425 17.8167,10.7956 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.05; stroke: #000000" points="15.3595,8.29425 17.8079,8.29425 17.8167,10.7956 "/>
+    <svg:polygon style="fill: #ffffff" points="15.3647,8.34127 15.371,10.7975 17.7772,10.8038 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.05; stroke: #000000" points="15.3647,8.34127 15.371,10.7975 17.7772,10.8038 "/>
+  </svg:svg>
+</shape>

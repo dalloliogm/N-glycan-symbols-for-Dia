@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia shapes - GalNAc</name>
+  <icon>GalNAc.png</icon>
+  <connections>
+    <point x="2.595" y="1.535"/>
+    <point x="5.06274" y="4.085"/>
+    <point x="2.595" y="4.085"/>
+    <point x="2.595" y="2.81"/>
+    <point x="5.06274" y="1.535"/>
+    <point x="5.06274" y="2.81"/>
+    <point x="3.82887" y="4.085"/>
+    <point x="3.82887" y="1.535"/>
+    <point x="2.595" y="1.535"/>
+    <point x="5.06274" y="4.085"/>
+    <point x="2.595" y="4.085"/>
+    <point x="2.595" y="2.81"/>
+    <point x="5.06274" y="1.535"/>
+    <point x="5.06274" y="2.81"/>
+    <point x="3.82887" y="4.085"/>
+    <point x="3.82887" y="1.535"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffff00" x="2.595" y="1.535" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="2.595" y="1.535" width="2.46774" height="2.55"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" x="2.595" y="1.535" width="2.46774" height="2.55"/>
+  </svg:svg>
+</shape>

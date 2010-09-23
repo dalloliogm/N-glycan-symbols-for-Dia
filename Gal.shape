@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia shapes - Gal</name>
+  <icon>Gal.png</icon>
+  <connections>
+    <point x="6.365" y="5.47"/>
+    <point x="6.365" y="3.02"/>
+    <point x="5.14" y="4.245"/>
+    <point x="7.59" y="4.245"/>
+    <point x="6.365" y="5.47"/>
+    <point x="6.365" y="3.02"/>
+    <point x="5.14" y="4.245"/>
+    <point x="7.59" y="4.245"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffff00" cx="6.365" cy="4.245" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="6.365" cy="4.245" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="6.365" cy="4.245" rx="1.225" ry="1.225"/>
+  </svg:svg>
+</shape>

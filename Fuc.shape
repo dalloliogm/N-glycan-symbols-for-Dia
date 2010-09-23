@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>dia shapes - Fuc</name>
+  <icon>Fuc.png</icon>
+  <connections>
+    <point x="16.5835" y="8.24752"/>
+    <point x="15.3772" y="10.8413"/>
+    <point x="17.7835" y="10.8475"/>
+    <point x="15.9804" y="9.5444"/>
+    <point x="16.5804" y="10.8444"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #d82727" points="16.5835,8.24752 15.3772,10.8413 17.7835,10.8475 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.05; stroke: #000000" points="16.5835,8.24752 15.3772,10.8413 17.7835,10.8475 "/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shapes - mannose</name>
+  <icon>mannose.png</icon>
+  <connections>
+    <point x="3.82" y="3.985"/>
+    <point x="3.82" y="1.535"/>
+    <point x="2.595" y="2.76"/>
+    <point x="5.045" y="2.76"/>
+    <point x="3.82" y="3.985"/>
+    <point x="3.82" y="1.535"/>
+    <point x="2.595" y="2.76"/>
+    <point x="5.045" y="2.76"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #25971d" cx="3.82" cy="2.76" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="3.82" cy="2.76" rx="1.225" ry="1.225"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.01; stroke: #000000" cx="3.82" cy="2.76" rx="1.225" ry="1.225"/>
+  </svg:svg>
+</shape>
